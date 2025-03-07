@@ -1,4 +1,18 @@
 {
-    "usuarios": []
-  }
-  
+  "usuarios": [
+      {
+          "id": "1",
+          "nome": "Lauriane",
+          "dataNascimento": "1999-01-01",
+          "email": "maria@teste.com",
+          "cpf": "123.456.789-00",
+          "fone": "(11) 99999-9999",
+          "endereco_rua": "Rua Exemplo",
+          "endereco_cep": "12345-678",
+          "endereco_bairro": "Centro",
+          "endereco_numero": "123",
+          "endereco_cidade": "São Paulo",
+          "endereco_estado": "SP"
+      }
+  ]
+}
